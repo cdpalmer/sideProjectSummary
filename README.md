@@ -73,12 +73,11 @@ Code?  Also lost in the ether.
 
 ### Swift
 
-#### Blackjack Ninja
+#### Lumber Blackjack
 
-Current work in progress.  iOS game that trains you to learn to play Basic Strategy.
+Designed, coded, and deployed an iOS game that trains you to learn to play Basic Strategy.
 Instead of the flash-card style that most apps use, you play a game that incrementally
-teaches you different parts of Basic Strategy.  Just imagine a mix between Super Mario
-Brothers, Guitar Hero, Zelda, and Blackjack.  Stay tuned
+teaches you different parts of Blackjack Basic Strategy.
 
 ### Rails
 
